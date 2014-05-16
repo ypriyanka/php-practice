@@ -16,6 +16,7 @@ class vehicle
 		echo"<h2>classes example</h2><br>";	
 		echo"the vehicle name is:$name"."   <br>vehicle color is: $color";
 	}
+	//edithed foe stquash
 	
 }
 
